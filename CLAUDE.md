@@ -9,6 +9,10 @@ Claude Code 문서를 전 페이지 통과하며 내 것으로 만드는 레포.
 - 문서 내용을 요약해서 복붙하지 않는다. 원문이 항상 더 정확하고 최신이다.
 - 노트에는 **예상과 실제의 차이**, **기능 간 경계**, **손으로 확인한 결과**, **남은 질문**만 적는다.
 - 노트 형식은 `notes/TEMPLATE.md`를 따른다.
+- `notes/` 하위 디렉토리 구조는 `COVERAGE.md` 섹션 구조를 그대로 따른다.
+  - 섹션명을 kebab-case로 변환한 디렉토리에 노트를 넣는다. (예: "Core concepts" → `notes/core-concepts/`)
+  - 서브섹션은 중첩 디렉토리로 표현한다. (예: "Claude Code on the web" → `notes/platforms-and-integrations/on-the-web/`)
+  - 모든 페이지의 초안 파일이 미리 생성되어 있다. 노트를 쓸 때 새 파일을 만들지 말고 해당 파일을 채운다.
 
 ## COVERAGE.md 갱신 규칙
 
