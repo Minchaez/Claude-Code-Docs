@@ -34,7 +34,7 @@
 | 페이지                                                                               | 상태  | 노트      | 확인 버전/날짜 |
 | --------------------------------------------------------------------------------- | --- | ------- | -------- |
 | [how-claude-code-works](https://code.claude.com/docs/ko/how-claude-code-works.md) | 📖  | 2.1.238 | 26.08.21 |
-| [features-overview](https://code.claude.com/docs/ko/features-overview.md)         | ⬜   | 2.1.238 | 26.08.21 |
+| [features-overview](https://code.claude.com/docs/ko/features-overview.md)         | 📖  | 2.1.238 | 26.08.21 |
 | [claude-directory](https://code.claude.com/docs/ko/claude-directory.md)           | ⬜   |         |          |
 | [context-window](https://code.claude.com/docs/ko/context-window.md)               | ⬜   |         |          |
 | [prompt-caching](https://code.claude.com/docs/ko/prompt-caching.md)               | ⬜   |         |          |
